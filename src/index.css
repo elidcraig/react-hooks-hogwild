@@ -124,6 +124,10 @@ ul {
   height: 500px;
 }
 
+.hidden{
+  display: none;
+}
+
 .pigTile:hover {
   transform: scale(1.05);
 }
